@@ -13,7 +13,8 @@ Algorithms used here:
 
 
 
-Co-relation of features with respect to the target variables represented here.
+Correlation of features with respect to the target variables represented here.
+
 ![Matrix](https://github.com/Agrover112/BCW/blob/master/Images/PearsonsCorrelationMatrix.png)
 
 **Neural Network Architechture**
