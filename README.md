@@ -6,7 +6,7 @@ The following dataset has been taken from
 ## Performing Exploratory Analysis
 
 ![Data Distribution](/Images/Data%20Distributions.png)
-Images/Data Distributions.png
+
 
  *Pearson's Correlation* of features with respect to the target variables represented here.
 
