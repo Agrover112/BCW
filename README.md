@@ -5,12 +5,12 @@ The following dataset has been taken from
 [UCI Machine Learning Repository.:]( https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original))
 ## Performing Exploratory Analysis
 
-![Data Distribution](https://github.com/Agrover112/BCW/blob/master/Images/Data%20Distributions.png)
+![Data Distribution](https://github.com/Agrover112/BCW/blob/master/Images/Data%20Distributions.PNG)
 
 
  *Pearson's Correlation* of features with respect to the target variables represented here.
 
-![Matrix](https://github.com/Agrover112/BCW/blob/master/Images/PearsonsCorrelationMatrix.png)
+![Matrix](https://github.com/Agrover112/BCW/blob/master/Images/PearsonsCorrelationMatrix.PNG)
 
 ## Neural Network Architechture
 
@@ -22,7 +22,7 @@ The following dataset has been taken from
 
 - Output Layer : Sigmoid
 
-![NeuralNetworkDiagram](https://github.com/Agrover112/BCW/blob/master/Images/NND.png)
+![NeuralNetworkDiagram](https://github.com/Agrover112/BCW/blob/master/Images/NND.PNG)
 
 ## Results
 
