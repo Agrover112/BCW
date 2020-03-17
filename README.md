@@ -5,7 +5,7 @@ The following dataset has been taken from
 [UCI Machine Learning Repository.:]( https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original))
 ## Performing Exploratory Analysis
 
-![Data Distribution](/Images/Data%20Distributions.png)
+![Data Distribution](/Images/Data Distributions.png)
 
 
  *Pearson's Correlation* of features with respect to the target variables represented here.
