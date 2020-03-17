@@ -10,7 +10,7 @@ The following dataset has been taken from
 
  *Pearson's Correlation* of features with respect to the target variables represented here.
 
-![Matrix](https://github.com/Agrover112/BCW/blob/master/Images/pearsonscorrelationmatrix.png)
+![Matrix](https://github.com/Agrover112/BCW/blob/master/Images/PearsonsCorrelationMatrix.png)
 
 ## Neural Network Architechture
 
