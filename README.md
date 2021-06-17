@@ -1,5 +1,7 @@
 # Comparison Based Study to Predict Breast Cancer :A Survey
-**Note**: *Java* implementation using *Dl4j* is added in a seperate folder
+**Note**: *Java* implementation using *Dl4j* is added in a seperate folder.
+
+Refer  [Grover, A., Pradhan, N., & Hemrajani, P. (2020). Comparison-Based Study to Predict Breast Cancer: A Survey](https://doi.org/10.1007/978-981-15-6067-5_61) for full details.
 
 The following dataset has been taken from 
 [UCI Machine Learning Repository.:]( https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original))
