@@ -1,4 +1,4 @@
-# Breast Cancer Wisconsin(Original)Dataset 
+# Comparison Based Study to Predict Breast Cancer :A Survey
 **Note**: *Java* implementation using *Dl4j* is added in a seperate folder
 
 The following dataset has been taken from 
